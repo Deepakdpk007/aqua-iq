@@ -1,7 +1,12 @@
 streamlit
 groq
-chromadb
+chromadb==0.4.24
 sentence-transformers
 pypdf
 requests
 python-dotenv
+
+# IMPORTANT FIXES
+protobuf==3.20.3
+opentelemetry-api==1.25.0
+opentelemetry-sdk==1.25.0
