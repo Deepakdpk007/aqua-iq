@@ -6,7 +6,9 @@ pypdf
 requests
 python-dotenv
 
-# IMPORTANT FIXES
+# 🔥 FIXES (important)
+numpy==1.26.4
 protobuf==3.20.3
 opentelemetry-api==1.25.0
 opentelemetry-sdk==1.25.0
+grpcio==1.60.0
